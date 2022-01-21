@@ -1,0 +1,7 @@
+{
+  "name": "bitrise-cordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
